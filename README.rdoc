@@ -26,7 +26,8 @@ Create account:: Use the following link to create your authentication code for a
 == API Description:
 
 Authentication
-Method::Desctiption
+
+Method:: Desctiption
 get_token::returns a single use token that you can pass onto the client.
 	Parametters: 
 	* user id
