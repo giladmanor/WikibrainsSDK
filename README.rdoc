@@ -1,5 +1,8 @@
-= This Project is being initiated and the code will be available soon
+= Under contruction
+==
 
+= This Project is being initiated and 
+= the code will be available soon
 
 
 == Welcome to Wikibrains SDK
@@ -8,12 +11,20 @@ Wikibrains is a semantic engine that is based on a graph database
 
 Our Mission: To create an online brain that will spark creativity and out of the box thinking through collaboration. Our larger goal is to promote multi-cultural understanding for an abundant future.
 
-API URL: http://wikibrains.com/api
+== Usage
+The Wikibrains Semantic Engine is available via REST API 
+API Base URL: http://wikibrains.com/api
+Structure:
+<Base Url>/<method>
 
+Header Parametters:
+Without Session:: use in communication between servers
+With Session:: use in communication from client side
 
+Create account:: Use the following link to create your authentication code for accessing wikibrains semantic engine link: http://wikibrains.com/developer
 
 == API Description:
-Create account:: Use the following link to create your authentication code for accessing wikibrains semantic engine link: http://wikibrains.com/developer
+
 Authenticate and start session:: authentication process for accessing the semantic engine
 Push Cluster:: Create your ouwn context of associations
 Push Clue:: Add a new word into your cloud
