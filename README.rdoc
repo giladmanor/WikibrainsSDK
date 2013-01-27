@@ -1,12 +1,10 @@
-== This Project is being initiated and the code will be available soon
+= This Project is being initiated and the code will be available soon
 
 
 
 == Welcome to Wikibrains SDK
 
 Wikibrains is a semantic engine that is based on a graph database
-
-WikiBrains is a growing community of creative people from all walks of life who embrace associative thinking to get inspired and out of the box. You may associate "Freud" to "Psychology", then someone across the globe links it to "Libido", another one to "Subconscious", and another one to "Dreams" and so on ad infinitum with ever-expanding branches and related content. It is a social, fun and smart space where ideas roam free and multiply. Welcome to WikiBrains: The Worlds Largest Brainstorm.
 
 Our Mission: To create an online brain that will spark creativity and out of the box thinking through collaboration. Our larger goal is to promote multi-cultural understanding for an abundant future.
 
@@ -15,13 +13,14 @@ API URL: http://wikibrains.com/api
 
 
 == API Description:
-1. Create account
-2. Authenticate and start session
-3. push Clue
-4. Glue two Clues together
-5. push Scribble
-6. pull Clue suggestions
-7. pull Scribbles
+Create account:: Use the following link to create your authentication code for accessing wikibrains semantic engine link: http://wikibrains.com/developer
+Authenticate and start session:: authentication process for accessing the semantic engine
+Push Cluster:: Create your ouwn context of associations
+Push Clue:: Add a new word into your cloud
+Glue two Clues together:: assocoiate two words together
+Push Scribble:: add a comment on a word or array of words
+Pull Clue suggestions:: pull associated words in a semantic context
+Pull Scribbles:: pull all the comments available for a combination of words
 
 
 
