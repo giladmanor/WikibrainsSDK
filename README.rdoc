@@ -28,7 +28,7 @@ Create account:: Use the following link to create your authentication code for a
 === Authentication
 
 
-get_token
+==== get_token
   returns a single use token that you can pass onto the client.
   Parametters: 
   - user id
