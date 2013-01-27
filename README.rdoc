@@ -29,10 +29,10 @@ Authentication
 
 Method:: Desctiption
 get_token:: returns a single use token that you can pass onto the client.
-	Parametters: 
-	* user id
-	* authentication key
-	retuns a token string
+   Parametters: 
+- user id
+- authentication key
+   retuns a token string
 
 
 
