@@ -1,5 +1,5 @@
 = Under contruction
-==    .
+
 
 = This Project is being initiated and 
 = the code will be available soon
@@ -25,14 +25,15 @@ Create account:: Use the following link to create your authentication code for a
 
 == API Description:
 
-Authentication
+=== Authentication
 
-Method:: Desctiption
-get_token:: returns a single use token that you can pass onto the client.
-   Parametters: 
-- user id
-- authentication key
-   retuns a token string
+
+get_token
+  returns a single use token that you can pass onto the client.
+  Parametters: 
+  - user id
+  - authentication key
+  retuns a token string
 
 
 
